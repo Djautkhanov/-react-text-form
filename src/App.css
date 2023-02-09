@@ -1,0 +1,26 @@
+.btn{
+  height: 36px;
+  background-color: blue;
+  color: #ffffff;
+}
+.input{
+  height: 30px;
+  width: 300px;
+ 
+}
+.App{
+  margin: 40px 25% 0 25%;
+ 
+}
+.dddd{
+  display: flex;
+}
+.input-error{
+  height: 30px;
+  width: 300px;
+  
+  box-shadow: 3px 0px 0px 0px rgba(253, 36, 36, 0.7),
+  1px 0px 4px 0px rgba(253, 36, 36, 0.7),
+  0px 0px 0px 0px rgba(253, 36, 36, 0.7),
+  2px 0px 16px 0px rgba(253, 36, 36, 0.7);  
+}
